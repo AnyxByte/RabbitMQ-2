@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AnyxByte/RabbitMQ-2#readme",
+  "bugs": {
+    "url": "https://github.com/AnyxByte/RabbitMQ-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyxByte/RabbitMQ-2.git"
+  },
+  "license": "ISC",
+  "author": "Suprodip Bhattacharjee",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.9"
+  }
+}
